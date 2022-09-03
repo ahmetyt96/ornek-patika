@@ -1,0 +1,37 @@
+.header{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+.header h1{
+    font-size: 30px;
+    color: #888888;
+}
+.menu{
+    line-height: 30px;
+    background-color: #eeeeee;
+    text-align: center;
+    padding: 5px;      
+}
+.menu a{
+    text-decoration: none;
+    color: #777777;
+    padding: 5px;
+}
+.menu a:hover{
+    color: #000000;
+    background-color: #ffffff;
+}
+.content{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    list-style-position: inside;
+}
+.content h3{
+    color: #8a8a8a;
+}
+.content h1{
+    color: #8a5050;
+}
